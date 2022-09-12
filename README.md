@@ -1,6 +1,10 @@
 # Hi there 👋
 ## My name is Alexandre and I am a french student 🥖
-### - 😄 Pronouns: lm / ao
+- 😄 Pronouns: lm / ao
+**I'm learning :** 
+  - Javascript
+  - PHP
+  - Python
 
 <!--
 **AlexDesout/AlexDesout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
