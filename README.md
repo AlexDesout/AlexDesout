@@ -1,5 +1,5 @@
-### Hi there 👋
-### My name is Alexandre 
+# Hi there 👋
+## My name is Alexandre and I am a french student 🥖
 ### - 😄 Pronouns: lm / ao
 
 <!--
