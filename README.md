@@ -1,10 +1,27 @@
 # Hi there 👋
-*My name is Alexandre and I am a french student 🥖*
-- 😄 Pronouns: lm / ao
-**I'm learning :** 
-  - Javascript
+My name is Alexandre and I am a french student 🥖
+
+**I'm currently learning :** 
+  - JavaScript
   - PHP
   - Python
+
+<!--  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDesout)](https://github.com/anuraghazra/github-readme-stats)
+-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDesout&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdesout&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+My Portfolio [here](https://alexdesout.github.io/Mon-site-web/) !
+
+
+
+
+
+
+
+
+
 
 <!--
 **AlexDesout/AlexDesout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
