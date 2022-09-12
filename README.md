@@ -1,10 +1,13 @@
-# Hi there 👋
-My name is Alexandre and I am a french student 🥖 you can also call me by my pronouns : **Zem / Mour**
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+My name is Alexandre and I am a *french student* 🥖 </br>
+You can also call me by my pronouns : **Zem / Mour**
 
 **I'm currently learning :** 
-  - JavaScript
-  - PHP
-  - Python
+  - JavaScript 🖥️
+  - PHP 🌐
+  - Python 🐍
+  - SQL 🛢️
 
 <!--  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDesout)](https://github.com/anuraghazra/github-readme-stats)
