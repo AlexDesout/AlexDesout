@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Alexandre and I am a french student 🥖
+My name is Alexandre and I am a french student 🥖 you can also call me by my pronouns : **Zem / Mour**
 
 **I'm currently learning :** 
   - JavaScript
@@ -12,7 +12,7 @@ My name is Alexandre and I am a french student 🥖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDesout&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexdesout&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-My Portfolio [here](https://alexdesout.github.io/Mon-site-web/) !
+**My Portfolio 🖥️ : [here](https://alexdesout.github.io/Mon-site-web/) !**
 
 
 
