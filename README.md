@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Alexandre and I am a *french student* 🥖 </br>
-You can also call me by my pronouns : **Zem / Mour**
+You can also call me by my pronouns : **Xemm / Xamm **
 
 **I'm currently learning :** 
   - JavaScript 🖥️
