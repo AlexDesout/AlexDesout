@@ -3,10 +3,8 @@
 My name is Alexandre and I am a *french student* 🥖 </br>
 
 **I'm currently learning :** 
-  - JavaScript 🖥️
-  - PHP 🌐
-  - Python 🐍
-  - SQL 🛢️
+  - React 🌐
+  - Laravel 🚀
 
 <!--  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexDesout)](https://github.com/anuraghazra/github-readme-stats)
